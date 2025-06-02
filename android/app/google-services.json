@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "894303775154",
+    "firebase_url": "https://fitreserve2307-default-rtdb.firebaseio.com",
+    "project_id": "fitreserve2307",
+    "storage_bucket": "fitreserve2307.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894303775154:android:ef878af09adac8c0985cab",
+        "android_client_info": {
+          "package_name": "com.anaga.fitreserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6BmaQ52bbbxoXFK52FmY3efxqzFuL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
